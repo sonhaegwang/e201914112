@@ -4,6 +4,7 @@ public class Main {
     System.out.println("손해광");
     World.run();
     World.run2();
+    Hello.run();
   }
 
 }
